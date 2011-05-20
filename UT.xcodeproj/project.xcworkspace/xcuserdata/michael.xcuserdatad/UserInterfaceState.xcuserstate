@@ -14168,7 +14168,7 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>327546122.173244</real>
+		<real>327546167.85426599</real>
 		<string>{0, 1954}</string>
 		<string>{13, 0}</string>
 		<dict>
@@ -14467,7 +14467,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/michael/UT/.DS_Store</string>
-		<real>327546122.17343998</real>
+		<real>327546167.85450202</real>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -18170,7 +18170,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>327546122.17415899</real>
+		<real>327546167.85582203</real>
 		<string>{0, 1954}</string>
 		<string>{13, 0}</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
